@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/anusuyadevi2023/static/css/main.3609e11c.css",
+    "main.js": "/anusuyadevi2023/static/js/main.fe52b229.js",
+    "index.html": "/anusuyadevi2023/index.html",
+    "main.3609e11c.css.map": "/anusuyadevi2023/static/css/main.3609e11c.css.map",
+    "main.fe52b229.js.map": "/anusuyadevi2023/static/js/main.fe52b229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3609e11c.css",
+    "static/js/main.fe52b229.js"
+  ]
+}
